@@ -1,4 +1,5 @@
 # html 相关标签，语法，以及使用要点
+[阮一峰介绍css要点以及兼容](http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html)
 > 紧跟潮流，用issue写博客;)
 
 回忆一下，从看着阮一峰[搭建一个免费的，无限流量的Blog----github Pages和Jekyll](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)搭建自己的博客，到最近用`hexo`重建博客，一晃也2年了。期间折腾代码高亮和评论，升级`jekyll`和`ruby`的各种bug，隔几个月换换主题，一路过来，也算历经酸甜苦辣...
