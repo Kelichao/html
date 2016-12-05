@@ -1,5 +1,5 @@
 # html 相关标签，语法，以及使用要点
-<a href="http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html" t arget="_black">阮一峰介绍css要点以及兼容</a>
+<a href="http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html" target="_black">阮一峰介绍css要点以及兼容</a>
 
 > 紧跟潮流，用issue写博客;)
 
